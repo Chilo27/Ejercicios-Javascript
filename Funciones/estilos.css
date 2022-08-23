@@ -1,0 +1,14 @@
+.precios{
+    display: flex;
+    justify-content: space-between;
+}
+
+.precios h1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
